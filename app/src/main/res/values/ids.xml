@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="team_name" type="id">id</item>
+    <item name="team_badge" type="id">id</item>
+    <item name="list_team" type="id">id</item>
+    <item name="playerRecyclerView" type="id">id</item>
+    <item name="profile_picture" type="id">id</item>
+    <item name="player_name" type="id">id</item>
+    <item name="player_position" type="id">id</item>
+    <item name="description_textview" type="id">id</item>
+    <item name="swipeRefreshLayout" type="id">id</item>
+    <item name="matchNextRecyclerView" type="id">id</item>
+    <item name="matchPrevRecyclerView" type="id">id</item>
+    <item name="eventDateTextView" type="id">id</item>
+    <item name="homeTeamTextView" type="id">id</item>
+    <item name="homeScoreTextView" type="id">id</item>
+    <item name="awayScoreTextView" type="id">id</item>
+    <item name="awayTeamTextView" type="id">id</item>
+    <item name="eventTimeTextView" type="id">id</item>
+    <item name="spinner" type="id">id</item>
+    <item name="matchFavoriteRecyclerView" type="id">id</item>
+</resources>
